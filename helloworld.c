@@ -2,4 +2,6 @@
 
 main() {
 	printf("hello, world\n");
+
+	/*I LIKE POOP */
 }
